@@ -1,6 +1,8 @@
 # Paypocket Data Analysis using Visualisation
-(Paypocket payment analysis and estimated predictions using tools such as Python, PostgreSQL, PowerBI, Tableau, MS Excel and Jira.)
+### About: 
+Paypocket payment analysis and estimated predictions using tools such as Python, PostgreSQL, PowerBI, Tableau, MS Excel and Jira.
 
+---
 ### Phase 1: Understanding business problem and creating synthetic data
 
 ---
