@@ -2,11 +2,20 @@
 ### About: 
 Paypocket payment analysis and estimated predictions using tools such as Python, PostgreSQL, PowerBI, Tableau, MS Excel and Jira.
 
+![image](https://user-images.githubusercontent.com/89547823/165813130-ee026bec-4ec0-4261-8f58-7b1af9a920c1.png)
+
 ### Overview:
-* **Phase 1:** Understanding business problem and creating synthetic data
-* **Phase 2:** Creating individual user story based visualisations
-* **Phase 3:** Creating a compiled dashboard using PowerBI based on end user type (Payee and Payer)
-* **Phase 4:** Creating time series forecasting and predictions using Python
+**Phase 1:** 
+* 1.) Understanding business problem 
+* 2.) Creating synthetic data
+
+**Phase 2:** 
+
+* 3.) Creating individual user story based visualisations and a compiled dashboard using PowerBI based on end user type (Payee and Payer)
+* 4.) Creating time series forecasting and predictions using Python
+
+**Phase 3:**
+* 5.) Tool Evaluation
 
 ---
 ### Phase 1: Understanding business problem and creating synthetic data
@@ -17,14 +26,14 @@ Paypocket payment analysis and estimated predictions using tools such as Python,
 ![image](https://user-images.githubusercontent.com/89547823/163530997-00a5b0f9-13b5-4d28-a44f-547a1f67fc28.png)
 
 ---
-### Phase 3: Creating a compiled dashboard using PowerBI based on end user type (Payee and Payer)
+### Phase 2: Creating a compiled dashboard using PowerBI based on end user type (Payee and Payer)
 ![Paypocket Dashboard_Temp-1](https://user-images.githubusercontent.com/89547823/165676092-46a6056d-98a3-4796-8521-7f07431532ef.png)
 
 ---
 ![Paypocket Dashboard_Temp-2](https://user-images.githubusercontent.com/89547823/165676118-493299e5-5a6c-40da-9958-c3db0e1f9b66.png)
 
 ---
-### Phase 4: Creating time series forecasting and predictions using Python
+### Phase 2: Creating time series forecasting and predictions using Python
 
 #### 1. Original Series
 <img width="608" alt="Screen Shot 2022-04-27 at 8 48 50 PM" src="https://user-images.githubusercontent.com/89392789/165654444-504b9ecc-a8c0-4eb2-a745-4b6b6459b4b1.png">
@@ -75,4 +84,10 @@ Accuracy: 67.35%
  #### Results: 
  On our dataset, Ordinal transform gives better results than One hot encoder.
  
+---
+### Phase 3: Tool Evaluation 
+![image](https://user-images.githubusercontent.com/89547823/165814460-440dcc48-6271-405b-811f-e075629993bd.png)
+
+**Final Recommendation: Tableau**
+
 ---
