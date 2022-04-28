@@ -4,6 +4,7 @@ Paypocket payment analysis and estimated predictions using tools such as Python,
 
 ---
 ### Phase 1: Understanding business problem and creating synthetic data
+![image](https://user-images.githubusercontent.com/89547823/165675876-9cce774a-883d-4813-baba-06d5dddcf453.png)
 
 ---
 ### Phase 2: Creating individual user story based visualisations
@@ -11,10 +12,10 @@ Paypocket payment analysis and estimated predictions using tools such as Python,
 
 ---
 ### Phase 3: Creating a compiled dashboard using PowerBI based on end user type (Payee and Payer)
-![Paypocket Dashboard-1](https://user-images.githubusercontent.com/89547823/163530318-471cf7ca-7c7b-427f-9129-90a3fa5e2520.png)
+![Paypocket Dashboard_Temp-1](https://user-images.githubusercontent.com/89547823/165676092-46a6056d-98a3-4796-8521-7f07431532ef.png)
 
 ---
-![Paypocket Dashboard-2](https://user-images.githubusercontent.com/89547823/163530407-7ff02c3b-b788-4f61-9688-b1cea98a369b.png)
+![Paypocket Dashboard_Temp-2](https://user-images.githubusercontent.com/89547823/165676118-493299e5-5a6c-40da-9958-c3db0e1f9b66.png)
 
 ---
 ### Phase 4: Creating time series forecasting and predictions using Python
