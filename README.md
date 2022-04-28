@@ -50,7 +50,7 @@ Weak evidence against null hypothesis,indicating it is Non-Stationary
 #### 7. First order difference
 <img width="422" alt="Screen Shot 2022-04-27 at 8 53 19 PM" src="https://user-images.githubusercontent.com/89392789/165654851-4eb7c831-613f-4653-89fc-d12ef43bd8ff.png">
 
-* **Autocorrelation and Partial Autocorrelation Functions of Differenced Series **
+* **Autocorrelation and Partial Autocorrelation Functions of Differenced Series**
 <img width="772" alt="Screen Shot 2022-04-27 at 8 53 44 PM" src="https://user-images.githubusercontent.com/89392789/165654900-878137ff-c3c6-48bd-8dfa-f1ce7cc906ec.png">
 
 #### 8. SARIMAX model of order (1,2,1)
@@ -66,6 +66,7 @@ Accuracy: 64.63%
 **ii.) Ordinal encoding :**
 Accuracy: 67.35%
  
- ### Results: 
+ #### Results: 
  On our dataset, Ordinal transform gives better results than One hot encoder.
+ 
 ---
