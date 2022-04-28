@@ -15,7 +15,8 @@ Paypocket payment analysis and estimated predictions using tools such as Python,
 * 4.) Creating time series forecasting and predictions using Python
 
 **Phase 3:**
-* 5.) Tool Evaluation
+* 5.) Tool Evaluation (Tableau vs PowerBI)
+* 6.) Project Management using JIRA
 
 ---
 ### Phase 1: Understanding business problem and creating synthetic data
@@ -89,5 +90,17 @@ Accuracy: 67.35%
 ![image](https://user-images.githubusercontent.com/89547823/165814460-440dcc48-6271-405b-811f-e075629993bd.png)
 
 **Final Recommendation: Tableau**
+
+---
+### Phase 3: Project Management using JIRA
+
+* Transparency
+  * Sprints, status roadmap, backlog
+* Collaboration
+  * Effective utilization of comment section
+* Accountability 
+  * Assigning tasks, due dates
+* Integration
+  * Google Drive and documentation
 
 ---
