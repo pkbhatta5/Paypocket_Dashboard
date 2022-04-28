@@ -85,7 +85,7 @@ Accuracy: 67.35%
  On our dataset, Ordinal transform gives better results than One hot encoder.
  
 ---
-### Phase 3: Tool Evaluation 
+### Phase 3: Tool Evaluation (Tableau vs PowerBI)
 ![image](https://user-images.githubusercontent.com/89547823/165814460-440dcc48-6271-405b-811f-e075629993bd.png)
 
 **Final Recommendation: Tableau**
