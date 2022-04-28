@@ -1,6 +1,12 @@
-# Paypocket Data Analysis using Visualisation
+# Paypocket Data Analysis using Visualisation and Forecasting
 ### About: 
 Paypocket payment analysis and estimated predictions using tools such as Python, PostgreSQL, PowerBI, Tableau, MS Excel and Jira.
+
+### Overview:
+* **Phase 1:** Understanding business problem and creating synthetic data
+* **Phase 2:** Creating individual user story based visualisations
+* **Phase 3:** Creating a compiled dashboard using PowerBI based on end user type (Payee and Payer)
+* **Phase 4:** Creating time series forecasting and predictions using Python
 
 ---
 ### Phase 1: Understanding business problem and creating synthetic data
